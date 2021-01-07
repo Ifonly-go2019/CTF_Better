@@ -17,10 +17,46 @@ https://www.mi1k7ea.com/
 
 https://northity.com/
 
-## CTF Writeups
+## AWD / AWD+ CTF
 
-## CTF Games Source Code
+https://github.com/mo-xiaoxi/AWD_CTF_Platform
+
+
+## CTF Games Source Code / CTF Writeups
+
+https://github.com/google/google-ctf
+
+https://github.com/orangetw/My-CTF-Web-Challenges
+
+https://github.com/meizjm3i/CTF-Challenge
+
+https://github.com/christasa/CTF-WEB
+
+https://github.com/ctfwiki/ctf_game_history
+
+https://github.com/CTFTraining/CTFTraining
+
+https://github.com/wonderkun/CTF_web
+
+https://github.com/VulnHub/ctf-writeups
+
+
+## CTF Tricks / Cheatsheet
+
+https://github.com/w181496/Web-CTF-Cheatsheet
+
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+https://github.com/JohnHammond/ctf-katana
 
 ## CTF Tools
 
-## CTF Tricks
+https://github.com/CTFd/CTFd
+
+https://github.com/zardus/ctf-tools
+
+https://github.com/Acmesec/CTFCrackTools
+
+
+
+
