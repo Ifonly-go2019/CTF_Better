@@ -2,15 +2,14 @@
 搜集一些CTF资源
 
 ## Blog
-成信:
+
+### CTF Teams
 
 D0g3: https://www.d0g3.cn/
 
 Syclover: http://www.sycsec.com/
 
-西电:
-
-http://l-team.org/
+L-Team：http://l-team.org/
 
 https://www.mi1k7ea.com/
 
