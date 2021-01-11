@@ -54,6 +54,10 @@ https://github.com/phith0n/code-breaking
 
 https://github.com/phith0n/realworldctf
 
+https://github.com/CHYbeta/Code-Audit-Challenges
+
+
+
 ## CTF Tricks / Cheatsheet
 
 https://github.com/w181496/Web-CTF-Cheatsheet
@@ -61,6 +65,10 @@ https://github.com/w181496/Web-CTF-Cheatsheet
 https://github.com/swisskyrepo/PayloadsAllTheThings
 
 https://github.com/JohnHammond/ctf-katana
+
+https://github.com/phith0n/Mind-Map
+
+
 
 ## CTF Tools
 
