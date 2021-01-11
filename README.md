@@ -80,5 +80,20 @@ https://github.com/Acmesec/CTFCrackTools
 
 https://regexper.com/
 
+## CTF Platform
+
+https://buuoj.cn/
+
+https://adworld.xctf.org.cn/
+
+https://pwnhub.cn/
+
+http://www.bmzclub.cn/
+
+http://www.wechall.net/
+
+
+
+
 
 
