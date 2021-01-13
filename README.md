@@ -1,7 +1,7 @@
 # CTF_Better
 搜集一些CTF资源
 
-## Blog
+## Blog / News
 
 ### CTF Teams
 
@@ -28,6 +28,12 @@ https://www.mi1k7ea.com/
 https://northity.com/
 
 https://github.com/davidcheyenneone/CTF
+
+### CTF New
+
+https://ctftime.org/
+
+https://ctftime.org/calendar/
 
 ## AWD / AWD+ CTF
 
