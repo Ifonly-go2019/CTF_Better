@@ -29,7 +29,7 @@ https://northity.com/
 
 https://github.com/davidcheyenneone/CTF
 
-### CTF New
+### CTF News
 
 https://ctftime.org/
 
